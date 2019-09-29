@@ -1,0 +1,28 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Make a theme!",
+  "author": "Alexis Andriopoulos",
+  "theme": {
+      "colors": {
+          "accentcolor": "#5f27cd",
+          "textcolor": "#5f27cd",
+          "tab_line": "#5f27cd",
+          "toolbar": "#5f27cd",
+          "toolbar_text": "#5f27cd",
+          "toolbar_bottom_separator": "#5f27cd",
+          "toolbar_field": "#5f27cd",
+          "toolbar_field_border": "#5f27cd",
+          "toolbar_field_border_focus": "#5f27cd",
+          "toolbar_field_text": "#5f27cd",
+          "toolbar_field_separator": "#5f27cd",
+          "sidebar": "#5f27cd",
+          "sidebar_text": "#5f27cd",
+          "popup": "#5f27cd",
+          "popup_text": "#5f27cd",
+          "popup_highlight": "#5f27cd",
+          "ntp_background": "#5f27cd",     
+          "ntp_text": "#5f27cd"
+      }
+  }
+}
